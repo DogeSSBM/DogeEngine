@@ -1,2 +1,2 @@
-# DogeLib
-Doge's swiss army knife of reusable code
+# DogeEngine
+It's like a game engine... but it's a dog
